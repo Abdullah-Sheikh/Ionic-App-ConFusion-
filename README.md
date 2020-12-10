@@ -9,7 +9,10 @@ https://con-fusionhotel.web.app/home
 
 Feel free to Star or Fork it and make your changes , then make pull request.
 
-We will appreciate your Changes and Review it 😄
+We will appreciate your Changes and Review it 😊
+
+
+
 
 <div align="center">
 	<br>
